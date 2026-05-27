@@ -1,5 +1,6 @@
 #include <iostream>
-int main() { 
-	cout << "Hello, Git!\n" << endl;
-	return 0;
+
+int main() {
+    std::cout << "Hello, Git Branch and PR!" << std::endl;
+    return 0;
 }
